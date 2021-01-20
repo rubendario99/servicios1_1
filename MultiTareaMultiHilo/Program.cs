@@ -28,7 +28,6 @@ namespace MultitareaMultihilo
             }
 
             //Mostramos las opciones
-
             void showOptions()
             {
                 foreach (string option in options)
@@ -42,7 +41,7 @@ namespace MultitareaMultihilo
             }
             do
             {
-                opciones();
+                showOptions();
                 void AskForOption()
                 {
                     do
@@ -57,13 +56,13 @@ namespace MultitareaMultihilo
                         catch (System.FormatException s)
                         {
                             Console.Clear();
-                            opciones();
+                            showOptions();
                             optionSelected = -1;
                         }
                         catch (System.OverflowException soe)
                         {
                             Console.Clear();
-                            opciones();
+                            showOptions();
                             optionSelected = -1;
                         }
                     } while (optionSelected == -1);
@@ -74,14 +73,13 @@ namespace MultitareaMultihilo
                 while (optionSelected < 0 || optionSelected > options.Length + 1)
                 {
                     Console.Clear();
-                    opciones();
+                    showOptions();
                     Console.WriteLine("------------------------");
                     Console.WriteLine("Error");
                     //Console.WriteLine("Select your option again");
                     //optionSelected = Convert.ToInt32(Console.ReadLine());
                     //optionSelected--;
                     AskForOption();
-
                 }
 
                 //Asignamos el método correspondiente al delegado
