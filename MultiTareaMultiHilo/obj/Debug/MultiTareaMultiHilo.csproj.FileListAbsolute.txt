@@ -1,0 +1,7 @@
+C:\Users\ruchi\source\repos\MultiTareaMultiHilo\MultiTareaMultiHilo\bin\Debug\MultiTareaMultiHilo.exe.config
+C:\Users\ruchi\source\repos\MultiTareaMultiHilo\MultiTareaMultiHilo\bin\Debug\MultiTareaMultiHilo.exe
+C:\Users\ruchi\source\repos\MultiTareaMultiHilo\MultiTareaMultiHilo\bin\Debug\MultiTareaMultiHilo.pdb
+C:\Users\ruchi\source\repos\MultiTareaMultiHilo\MultiTareaMultiHilo\obj\Debug\MultiTareaMultiHilo.csprojAssemblyReference.cache
+C:\Users\ruchi\source\repos\MultiTareaMultiHilo\MultiTareaMultiHilo\obj\Debug\MultiTareaMultiHilo.csproj.CoreCompileInputs.cache
+C:\Users\ruchi\source\repos\MultiTareaMultiHilo\MultiTareaMultiHilo\obj\Debug\MultiTareaMultiHilo.exe
+C:\Users\ruchi\source\repos\MultiTareaMultiHilo\MultiTareaMultiHilo\obj\Debug\MultiTareaMultiHilo.pdb
